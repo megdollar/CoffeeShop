@@ -150,7 +150,7 @@ header nav li:last-child{
 	}
     margin
 }
-@media screen and (max-width:550px) {
+@media screen and (max-width:600px) {
     header nav {
         flex-wrap: wrap;
     }
